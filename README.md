@@ -1,2 +1,5 @@
-# Zuyd_Univeristy_essentials
+# Zuyd_University_essentials
 Repo for student &amp; teacher
+
+
+Remco.
